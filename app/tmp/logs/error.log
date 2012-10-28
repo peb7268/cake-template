@@ -1,0 +1,60 @@
+2012-10-27 23:17:10 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
+2012-10-27 23:17:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
+2012-10-27 23:18:21 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
+2012-10-27 23:18:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
+2012-10-27 23:18:23 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
+2012-10-27 23:18:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
+2012-10-27 23:19:34 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
+2012-10-27 23:19:34 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
+2012-10-27 23:22:21 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
+2012-10-27 23:22:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
+2012-10-27 23:23:50 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
+2012-10-27 23:23:50 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
+2012-10-27 23:24:03 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
+2012-10-27 23:24:03 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
+2012-10-27 23:24:56 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
+#2 {main}
