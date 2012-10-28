@@ -67,6 +67,7 @@ class DATABASE_CONFIG {
 		'password' => '',
 		'database' => 'blog',
 		'prefix' => '',
+		'port' => '80'
 		//'encoding' => 'utf8',
 	);
 

@@ -58,3 +58,440 @@
 #0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/index.php(42): require('/Applications/X...')
 #2 {main}
+2012-10-28 01:24:19 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 11]
+2012-10-28 01:24:19 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 01:24:26 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 11]
+2012-10-28 01:24:26 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 01:26:33 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 11]
+2012-10-28 01:26:33 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 01:26:34 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 11]
+2012-10-28 01:26:34 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 11, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:25:59 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 17]
+2012-10-28 03:25:59 Error: [FatalErrorException] syntax error, unexpected T_ENDFOREACH
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 17, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 17, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:26:56 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 17]
+2012-10-28 03:26:56 Error: [FatalErrorException] syntax error, unexpected T_ENDFOREACH
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 17, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 17, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:27:59 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:27:59 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:30:39 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:30:39 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:30:52 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:30:52 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:32:23 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:32:23 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:35:32 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:35:32 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:38:57 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:38:57 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:38:59 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:38:59 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:40:12 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Model/Datasource/DboSource.php(261): Mysql->connect()
+#1 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Model/ConnectionManager.php(101): DboSource->__construct(Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Model/Model.php(3157): ConnectionManager::getDataSource('default')
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Model/Model.php(1092): Model->setDataSource('default')
+#4 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Model/Model.php(3179): Model->setSource('posts')
+#5 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Model/Model.php(2630): Model->getDataSource()
+#6 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/Controller/PostsController.php(19): Model->find('all')
+#7 [internal function]: PostsController->index()
+#8 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#10 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest), Object(CakeResponse))
+#11 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2012-10-28 03:40:26 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:40:26 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:44:51 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:44:51 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:45:01 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:45:01 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:45:09 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:45:09 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:45:25 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:45:25 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:45:41 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-10-28 03:45:51 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:45:51 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:46:39 Error: [MissingControllerException] Controller class PostControllerController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-10-28 03:47:04 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:47:04 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:47:09 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:47:09 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:47:17 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:47:17 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 03:47:24 Error: [MissingControllerException] Controller class IndexController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-10-28 03:48:22 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 03:48:22 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 04:06:13 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 04:06:13 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 04:06:19 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 04:06:19 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 04:07:58 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 04:07:58 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 04:08:23 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 04:08:23 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 04:08:30 Error: [MissingControllerException] Controller class PostController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-10-28 04:08:36 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 04:08:36 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 04:08:42 Error: [MissingControllerException] Controller class PostsControllerController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-10-28 04:08:51 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 04:08:51 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 04:09:59 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 04:09:59 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 04:10:00 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 04:10:00 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 04:10:12 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 04:10:12 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 04:11:13 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 04:11:13 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 15:56:58 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 17]
+2012-10-28 15:56:58 Error: [FatalErrorException] syntax error, unexpected T_ENDFOREACH
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 17, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 17, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 15:57:00 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 17]
+2012-10-28 15:57:00 Error: [FatalErrorException] syntax error, unexpected T_ENDFOREACH
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 17, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 17, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 15:58:35 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 15:58:35 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 15:58:37 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 15:58:37 Error: [FatalErrorException] syntax error, unexpected ';'
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 15:59:43 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes) in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 2]
+2012-10-28 15:59:43 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes)
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 15:59:47 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes) in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 2]
+2012-10-28 15:59:47 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes)
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 16:00:15 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes) in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 2]
+2012-10-28 16:00:15 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes)
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 16:00:24 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes) in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 2]
+2012-10-28 16:00:24 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes)
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 16:01:55 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes) in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 4]
+2012-10-28 16:01:55 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes)
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/X...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/X...', 4, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/X...', 4, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 16:02:22 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes) in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 5]
+2012-10-28 16:02:22 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes)
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/X...', 5)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/X...', 5, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/X...', 5, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 16:03:18 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes) in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 4]
+2012-10-28 16:03:18 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes)
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/X...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/X...', 4, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/X...', 4, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 16:04:51 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes) in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 4]
+2012-10-28 16:04:51 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes)
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/X...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/X...', 4, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/X...', 4, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 16:41:21 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 128716801 bytes) in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 4]
+2012-10-28 16:41:21 Error: [InternalErrorException] Internal Server Error
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/X...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/X...', 4, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/X...', 4, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 16:41:24 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 128716801 bytes) in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 4]
+2012-10-28 16:41:24 Error: [InternalErrorException] Internal Server Error
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/X...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/X...', 4, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/X...', 4, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 16:42:12 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 16:42:12 Error: [InternalErrorException] Internal Server Error
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 16:42:14 Error: Fatal Error (4): syntax error, unexpected ';' in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 12]
+2012-10-28 16:42:14 Error: [InternalErrorException] Internal Server Error
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 12, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 16:49:02 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes) in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 2]
+2012-10-28 16:49:02 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes)
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-10-28 16:49:06 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes) in [/Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/app/View/Posts/index.ctp, line 2]
+2012-10-28 16:49:06 Error: [FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 128450561 bytes)
+#0 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(1, 'Allowed memory ...', '/Applications/X...', 2)
+#1 [internal function]: ErrorHandler::handleError(1, 'Allowed memory ...', '/Applications/X...', 2, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Allowed memory ...', '/Applications/X...', 2, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/sandbox/cake/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
